@@ -1,0 +1,31 @@
+{
+  "name": "DataStructureJS",
+  "version": "1.0.0",
+  "description": "js版本实现的数据结构",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Megan-TA/DataStructureJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Megan-TA/DataStructureJS/issues"
+  },
+  "homepage": "https://github.com/Megan-TA/DataStructureJS#readme",
+  "devDependencies": {
+    "eslint": "^5.15.2",
+    "eslint-config-standard": "^12.0.0",
+    "eslint-plugin-import": "^2.16.0",
+    "eslint-plugin-node": "^8.0.1",
+    "eslint-plugin-promise": "^4.0.1",
+    "eslint-plugin-standard": "^4.0.0"
+  }
+}
